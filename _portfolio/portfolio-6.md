@@ -16,5 +16,5 @@ date: 2026-06-01
 
 ## 📸 证书
 
-![WBCD 冠军证书](/images/wbcd-champion.jpg)
+![WBCD 冠军证书]({{ site.baseurl }}/images/wbcd-champion.jpg)
 *WBCD 大赛冠军证书*

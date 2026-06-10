@@ -18,10 +18,10 @@ date: 2026-04-01
 
 ## 📸 证书
 
-![轮足复合机器人组 第三名](/images/barutu-bronze.jpg)
+![轮足复合机器人组 第三名]({{ site.baseurl }}/images/barutu-bronze.jpg)
 *轮足复合机器人组 第三名证书*
 
-![极速奖](/images/barutu-jisu.jpg)
+![极速奖]({{ site.baseurl }}/images/barutu-jisu.jpg)
 *极速奖证书*
 
 ## 🎥 智行全程视频
