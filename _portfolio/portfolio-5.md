@@ -24,4 +24,8 @@ date: 2026-04-01
 ![极速奖](/images/barutu-jisu.jpg)
 *极速奖证书*
 
-> 🎥 智行全程视频因文件过大(约400MB)未直接上传至 GitHub，可联系我获取或通过其他平台查看。
+## 🎥 智行全程视频
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1JyER6iExF&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="450"></iframe>
+
+> 📺 [在 Bilibili 观看：北京巴鲁图机器人挑战赛 智行全程](https://www.bilibili.com/video/BV1JyER6iExF/)
