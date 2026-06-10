@@ -3,7 +3,7 @@
     "name": "康轶航",
     "email": "2107405729@qq.com",
     "phone": "17863059986",
-    "website": "https://kangyihang.github.io",
+    "website": "https://KK2107405729.github.io/Kangyihang.github.io",
     "summary": "哈尔滨工业大学(威海) 测控技术与仪器 本科 | 香港科技大学(广州) incoming PhD | 嵌入式/CV/机器人",
     "location": {
       "address": "",
@@ -94,6 +94,18 @@
     }
   ],
   "awards": [
+    {
+      "title": "冠军",
+      "date": "2026-06",
+      "awarder": "WBCD 机器人大赛",
+      "summary": ""
+    },
+    {
+      "title": "第三名（铜牌）+ 极速奖",
+      "date": "2026-04",
+      "awarder": "北京亦庄机器人巴鲁图勇士挑战赛",
+      "summary": "轮足复合机器人组第三名，斩获极速奖，智行类别完美完赛"
+    },
     {
       "title": "全国特等奖（赛道第一）",
       "date": "2022",
@@ -194,6 +206,20 @@
   "presentations": [],
   "teaching": [],
   "portfolio": [
+    {
+      "name": "WBCD 机器人大赛",
+      "category": "机器人竞赛",
+      "date": "2026-06",
+      "url": "",
+      "description": "2026年6月参加WBCD机器人大赛，获得冠军。"
+    },
+    {
+      "name": "北京亦庄机器人巴鲁图勇士挑战赛",
+      "category": "机器人竞赛",
+      "date": "2026-04",
+      "url": "",
+      "description": "轮足复合机器人组第三名（铜牌），斩获极速奖，智行类别完美完赛。"
+    },
     {
       "name": "灵探号 ROV",
       "category": "水下机器人",
