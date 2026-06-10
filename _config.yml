@@ -13,9 +13,9 @@ title                    : "康轶航 - 个人主页"
 title_separator          : "-"
 name                     : &name "康轶航"
 description              : &description "康轶航的个人简历与项目展示 — 哈尔滨工业大学(威海)测控技术与仪器本科，香港科技大学(广州) incoming PhD"
-url                      : https://kangyihang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://KK2107405729.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/Kangyihang.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "KK2107405729/Kangyihang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
