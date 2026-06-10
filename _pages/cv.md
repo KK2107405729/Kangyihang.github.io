@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,93 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 教育经历
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **香港科技大学(广州)** — Incoming PhD Student (2026.01)
+- **哈尔滨工业大学(威海)** — 测控技术与仪器 本科 (2019.09 - 2023.07)  
+  信息科学与工程学院 | 全日制 | 985/211/双一流
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 工作经历
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### 厦门瀛登科技 — 技术合伙人 (2023.05 - 2025.07)
+- 与朋友合伙创业，开发多款可量产水下机器人
+- 负责上位机软件开发、下位机软件设计与开发
+- Linux 开发板驱动开发与算法设计
+- 完成由上位机下发任务，机器人自主遍历巡检指定范围的算法设计与实现
+- 根据客户需求定制化开发：地图显示、机器联网遥控、水下多传感器监听与数据传输
+
+### 上海联江芯半导体公司 — WiFi软件工程师 (2025.02 - 2025.06)
+- 参与 WiFi 业务流程代码梳理
+- SPI 驱动开发与串口驱动开发，在 haps100 平台完成调试
+- 发现并提单 3 个问题，输出 WiFi 协议相关技术文档 5 篇
+- 定位 USART 与 SPI 驱动代码 bug 并完成调试
+
+### 新华三信息技术有限公司 — 单板软件工程师 (2023.07 - 2025.01)
+- Linux 发行版驱动兼容性问题定位 (如国产 RAID 卡驱动识别问题)
+- 服务器性能测试：Unixbench、Speccpu、Hadoop 大数据等，参与测试项 197+ 项
+- Expander 固件开发 (PMC/LSI)，输出上线固件 3 个
+- OS 问题定位与处理 22+ 项，性能测试数据库完善与一键测试脚本维护
+- 绩效：2023下半年 B+，2024 Q1-Q3 均为 A
+
+---
+
+## 科创经历
+
+### ROVER 水下机器人实验室 — 软件负责人 (2019.10 - 2023.03)
+
+| 时间 | 项目 | 成果 |
+|------|------|------|
+| 2020 | 灵探号 ROV 电控设计 | 第九届全国海洋航行器设计与制作大赛 **全国一等奖** |
+| 2021 | 大坝巡检 ROV 上位机与电控设计 | 第十届大赛 **省级二等奖** |
+| 2022 | 水下机器人平台设计 | 第十一届大赛 **全国特等奖（赛道第一）** |
+
+**技术贡献：**
+- 将团队计算机视觉从 0 到 1，留下水下去雾、YOLO 识别、双目测距等算法
+- 上位机从 C# 转向 C++ Qt，支持跨平台与代码迁移
+- 2023 年完成 YOLO 等算法平台部署到国产开发板 (RK3588)，完成视频流处理与传输架构
+
+---
+
+## 项目经历
+
+### 海洋装备人才培养 ROV 工程 — 队长 (2021.10 - 2022.09)
+- 基于串级 PID 控制器的稳定运动控制算法
+- 基于 CUDA 和 OpenCV 开发识别与测距算法
+- 实现目标物体识别与距离获取，驱动机械爪抓取
+
+### 梦之旅无线远程打印 — 嵌入式软件负责人 (2021.07 - 2022.06)
+- 终端打印机控制与多种打印样式选择
+- 服务器端数据处理与网络通信
+
+---
+
+## 科创比赛
+
+- **电子设计大赛** — 2020 校级二等奖 (智能穿戴设备)，2021 **省级二等奖** (摆动跟踪算法)
+- **数学建模大赛** — 美赛 S 奖两次，国赛 **省级二等奖**
+
+---
+
+## 技能
+
+- **编程语言：** C/C++, Python
+- **计算机视觉：** OpenCV, YOLO, 水下去雾算法, 双目测距
+- **嵌入式：** STM32, Linux 驱动开发, RK3588, SPI/UART
+- **开发工具：** Qt, CUDA, Git
+- **机器人控制：** PID 控制, 串级 PID, 运动控制算法
+
+---
+
+## 荣誉奖项
+
+- 第十一届全国海洋航行器设计与制作大赛 **全国特等奖** (赛道第一)
+- 第十一届全国海洋航行器设计与制作大赛 环渤海赛区 二等奖
+- 第十届全国海洋航行器设计与制作大赛 齐鲁赛区 二等奖
+- 第九届全国海洋航行器设计与制作大赛 **全国一等奖**
+- 全国高教杯数学建模大赛 山东分部 二等奖
+- 电子设计大赛 山东分部 二等奖
+- 互联网+ 黑龙江赛区 铜牌
+- 二等人民奖学金 四次
+- 优秀科创学生

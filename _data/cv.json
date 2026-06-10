@@ -1,152 +1,226 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "康轶航",
+    "email": "2107405729@qq.com",
+    "phone": "17863059986",
+    "website": "https://kangyihang.github.io",
+    "summary": "哈尔滨工业大学(威海) 测控技术与仪器 本科 | 香港科技大学(广州) incoming PhD | 嵌入式/CV/机器人",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "上海",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "KK2107405729",
+        "url": "https://github.com/KK2107405729"
+      },
+      {
+        "network": "语雀",
+        "username": "",
+        "url": "https://www.yuque.com/huanlema-rgtyi"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "厦门瀛登科技",
+      "position": "技术合伙人",
+      "website": "",
+      "startDate": "2023-05",
+      "endDate": "2025-07",
+      "summary": "水下机器人创业公司，负责软件开发与方案设计，开发多款可量产水下机器人",
+      "highlights": [
+        "上位机软件开发",
+        "下位机软件设计与开发",
+        "Linux开发板驱动开发与算法设计",
+        "机器人自主遍历巡检算法实现",
+        "客户定制化功能开发"
+      ]
+    },
+    {
+      "company": "上海联江芯半导体公司",
+      "position": "WiFi软件工程师",
+      "website": "",
+      "startDate": "2025-02",
+      "endDate": "2025-06",
+      "summary": "WiFi芯片软件开发，参与驱动开发与协议梳理",
+      "highlights": [
+        "WiFi业务流程代码梳理",
+        "SPI驱动与串口驱动开发(hapS100平台)",
+        "发现并提单3个问题",
+        "输出WiFi协议技术文档5篇",
+        "USART与SPI驱动bug调试"
+      ]
+    },
+    {
+      "company": "新华三信息技术有限公司",
+      "position": "单板软件工程师",
+      "website": "",
+      "startDate": "2023-07",
+      "endDate": "2025-01",
+      "summary": "国产与AMD服务器单板软件，负责固件开发与性能测试",
+      "highlights": [
+        "Linux驱动兼容性问题定位(国产RAID卡等)",
+        "服务器性能测试197+项(Unixbench/Speccpu/Hadoop)",
+        "Expander固件开发(PMC/LSI)，上线3个固件",
+        "OS问题定位与处理22+项",
+        "2023下半年绩效B+，2024Q1-Q3绩效A"
+      ]
+    }
+  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "香港科技大学(广州)",
+      "area": "Incoming PhD Student",
+      "studyType": "博士",
+      "startDate": "2026-01",
+      "endDate": "",
+      "gpa": "",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "哈尔滨工业大学(威海)",
+      "area": "测控技术与仪器",
+      "studyType": "本科",
+      "startDate": "2019-09",
+      "endDate": "2023-07",
+      "gpa": "",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "awards": [
+    {
+      "title": "全国特等奖（赛道第一）",
+      "date": "2022",
+      "awarder": "第十一届全国海洋航行器设计与制作大赛",
+      "summary": ""
+    },
+    {
+      "title": "全国一等奖",
+      "date": "2020",
+      "awarder": "第九届全国海洋航行器设计与制作大赛",
+      "summary": ""
+    },
+    {
+      "title": "环渤海赛区二等奖",
+      "date": "2022",
+      "awarder": "第十一届全国海洋航行器设计与制作大赛",
+      "summary": ""
+    },
+    {
+      "title": "齐鲁赛区二等奖",
+      "date": "2021",
+      "awarder": "第十届全国海洋航行器设计与制作大赛",
+      "summary": ""
+    },
+    {
+      "title": "山东分部二等奖",
+      "date": "2021",
+      "awarder": "全国高教杯数学建模大赛",
+      "summary": ""
+    },
+    {
+      "title": "山东分部二等奖",
+      "date": "2021",
+      "awarder": "电子设计大赛",
+      "summary": ""
+    },
+    {
+      "title": "黑龙江赛区铜牌",
+      "date": "",
+      "awarder": "互联网+",
+      "summary": ""
+    },
+    {
+      "title": "二等人民奖学金（四次）",
+      "date": "",
+      "awarder": "哈尔滨工业大学(威海)",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "编程语言",
+      "level": "",
+      "keywords": ["C/C++", "Python"]
+    },
+    {
+      "name": "计算机视觉",
+      "level": "",
+      "keywords": ["OpenCV", "YOLO", "水下去雾", "双目测距"]
+    },
+    {
+      "name": "嵌入式开发",
+      "level": "",
+      "keywords": ["STM32", "Linux驱动", "RK3588", "SPI", "UART"]
+    },
+    {
+      "name": "开发工具",
+      "level": "",
+      "keywords": ["Qt", "CUDA", "Git"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "中文",
+      "fluency": "母语"
+    },
+    {
+      "language": "English",
+      "fluency": "熟练"
+    }
+  ],
+  "interests": [
+    {
+      "name": "计算机视觉",
+      "keywords": ["图像处理", "目标检测", "深度学习"]
+    },
+    {
+      "name": "机器人控制",
+      "keywords": ["PID控制", "运动控制", "ROS"]
+    },
+    {
+      "name": "嵌入式系统",
+      "keywords": ["单片机", "Linux驱动", "SoC"]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "灵探号 ROV",
+      "category": "水下机器人",
+      "date": "2019-10 ~ 2020-08",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "负责ROV上位机设计、下位机运动设计及通信链接。实现前进后退、上浮下潜、左右转、原地转、俯仰、翻滚与顶角基本运动功能。第九届全国海洋航行器设计与制作大赛全国一等奖。"
+    },
+    {
+      "name": "大坝巡检 ROV",
+      "category": "水下机器人",
+      "date": "2020-12 ~ 2021-08",
+      "url": "",
+      "description": "担任队长，负责上位机编写、水下视觉处理、运动参数调试、声呐定位数据解析。完成一键式坝面自动巡检与裂缝/断裂面相对位置标定。第十届全国海洋航行器设计与制作大赛省级二等奖。"
+    },
+    {
+      "name": "海洋装备人才培养 ROV 工程",
+      "category": "水下机器人",
+      "date": "2021-10 ~ 2022-09",
+      "url": "",
+      "description": "队长。基于串级PID的稳定运动控制算法，CUDA+OpenCV识别与测距算法。实现目标识别与机械爪抓取（瓶子、海参、水底垃圾等）。"
+    },
+    {
+      "name": "梦之旅无线远程打印",
+      "category": "嵌入式",
+      "date": "2021-07 ~ 2022-06",
+      "url": "",
+      "description": "嵌入式软件负责人。负责终端打印机控制、多种打印样式选择、服务器端数据处理与网络通信。"
     }
   ]
 }
